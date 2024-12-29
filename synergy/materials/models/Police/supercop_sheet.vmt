@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Police/supercop_sheet"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "Models/Police/supercop_sheet_mask"
+	//"$basealphaenvmapmask" 1
+	"$envmaptint" "[.5 .5 .5]"
+	"$selfillum" 1
+//	"$envmap" "models/Police/envmap"
+//	"$envmapsphere" 1
+}
